@@ -4,17 +4,27 @@ function largest(list){
   for(let a=1; a<list.length; a++){
     if(list[a]>largernumber){
       return list[a];
+      a =large number;
     }
   }
 }
 //Task 2
 function reverse(list){
 let reverselist = list[];
+for (let a=)
 }
 
 //Task 3
 function cotains(list,e){
-
+let elementlist= list[];
+for(let a=1;a<list.length; a++){
+  if (a=e) {
+    true;
+  }
+  if (true){
+    return a;
+    }
+  }
 }
 
 //Task 4
@@ -30,10 +40,11 @@ for (let a=1; a<list.length; a=a+2){
 //Task 5
 function total(list){
 let totalnumbers =[];
-for (let a=1; a<list.length; a++;){
-     let newA= a;
-     totalnumbers.push();
-}
+let total= 0;
+for (let a=0; a<list.length; a++;){
+     total = total + list[a];
+     totalnumbers.push(a);
+   }
 }
 
 //Task 6
