@@ -60,7 +60,11 @@ function recursiveTotal(list){
 }
 //Task 8
 function concatenate(listA, listB){
-
+    let combine = [];
+    for (a = 0; a < list.length; a++) {
+      combine = combine.concat();
+    }
+    return combine;
 }
 
 //Task 9
